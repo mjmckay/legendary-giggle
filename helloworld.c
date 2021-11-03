@@ -1,6 +1,7 @@
 # include <stdio.h>
 
 int main() {
-  printf("Melissa was here! <insert scary music here>");
+  printf("Oh no!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+  printf("Melissa was here! <insert scary music>");
   return 0;
 }
